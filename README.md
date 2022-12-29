@@ -7,7 +7,7 @@ In the shop you can upgrade skills like the damage or decrase the reload time
 DISCLAIMER: This game is not finished, full of bugs and missing features, its an alpha version  
 
 # INSTALLING DEPENDENCIES
-`pip install pygame pyfiglet tk`
+`pip install pygame pyfiglet tk pygame`
 
 # STARTING THE GAME
 `python3` [`main.py`](https://github.com/k1llerfr0g22/Tower-Defense-Game/blob/main/main.py)
