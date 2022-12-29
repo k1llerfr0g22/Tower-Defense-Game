@@ -20,7 +20,7 @@ DISCLAIMER: This game is not finished, full of bugs and missing features, its an
 **D** - GO RIGHT
 
 ## OTHER 
-**SPACE** - SHOOT
+**SPACE** - SHOOT  
 **E** - OPEN SHOP
 
 ## DEV-MODE (EXPERIMENTAL)
