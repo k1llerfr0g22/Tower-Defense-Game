@@ -6,7 +6,8 @@ In the shop you can upgrade skills like the damage or decrase the reload time
 
 DISCLAIMER: This game is not finished, full of bugs and missing features, its an alpha version  
 
-# PLAY ONLINE AS REPL
+# PLAY ONLINE
+[[REPL]](https://replit.com/@luisKisters/tower-defense-gameeee)
 
 # INSTALLING DEPENDENCIES
 `pip install pygame pyfiglet tk pygame`
